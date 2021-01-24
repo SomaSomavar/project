@@ -1,0 +1,13 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	height: 2000px;
+}
+
+.div {
+	background: #0f0;
+}
